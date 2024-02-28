@@ -1,3 +1,3 @@
 This is simple chatgpt clone project using HTML, CSS, javascript
 
-for demo : https://github.com/AryanV311/js_chatgpt
+for demo : https://aryanv311.github.io/js_chatgpt/
